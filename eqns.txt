@@ -1,0 +1,160 @@
+______________________________________
+Best Solution for 0 internal metabolites:
+Solution------------
+NumParams: 19
+Printing Equation
+Reactants
+1 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Products
+0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+AIs
+-1 0 -1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+K values:
+0.085 0.02 0.04 4.675 
+Kplus: 0.04 Kmnius: 2.2
+Error: 0.0218736
+
+
+______________________________________
+______________________________________
+Best Solution for 1 internal metabolites:
+Solution------------
+NumParams: 19
+Printing Equation
+Reactants
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+Products
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+AIs
+1 0 -1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+Printing Equation
+Reactants
+1 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Products
+0 0 2 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 
+AIs
+-1 0 0 1 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 
+K values:
+0.095 3.31 0.005 4.06 0.43 
+Kplus: 3.02 Kmnius: 0.225
+Error: 8.22957e-05
+
+
+______________________________________
+______________________________________
+Best Solution for 2 internal metabolites:
+Solution------------
+NumParams: 19
+Printing Equation
+Reactants
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+Products
+0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+AIs
+0 0 -1 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 
+Printing Equation
+Reactants
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+Products
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+AIs
+-1 0 -1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+Printing Equation
+Reactants
+1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Products
+0 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 
+AIs
+0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 
+K values:
+0.885 0.195 0.005 4.765 4.87 1.03 
+Kplus: 3.475 Kmnius: 0.48
+Error: 0.000542997
+
+
+______________________________________
+______________________________________
+Best Solution for 3 internal metabolites:
+Solution------------
+NumParams: 19
+Printing Equation
+Reactants
+1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Products
+0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+AIs
+0 0 0 -1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 
+Printing Equation
+Reactants
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+Products
+0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+AIs
+0 0 -1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Printing Equation
+Reactants
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+Products
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+AIs
+1 0 -1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 
+Printing Equation
+Reactants
+0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Products
+0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 
+AIs
+0 -1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+K values:
+0.625 0.19 0.23 0.585 4.945 4.445 0.725 
+Kplus: 1.27 Kmnius: 0.155
+Error: 0.00265136
+
+
+______________________________________
+______________________________________
+Best Solution for 4 internal metabolites:
+Solution------------
+NumParams: 19
+Printing Equation
+Reactants
+1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Products
+0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+AIs
+0 0 0 -1 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 1 
+Printing Equation
+Reactants
+0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Products
+0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 
+AIs
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Printing Equation
+Reactants
+0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+Products
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+AIs
+-1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Printing Equation
+Reactants
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+Products
+0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+AIs
+0 1 -1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Printing Equation
+Reactants
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+Products
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+AIs
+1 1 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 
+K values:
+0.525 0.285 0.78 1.515 0.235 4.82 4.055 1.94 
+Kplus: 3.875 Kmnius: 1.62
+Error: 0.00582559
+
+
+______________________________________

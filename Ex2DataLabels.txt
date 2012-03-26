@@ -1,0 +1,1 @@
+P S G1 G2 G3 E1 E2 E3 M1 M2
